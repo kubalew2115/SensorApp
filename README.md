@@ -4,13 +4,13 @@ Kompleksowa aplikacja diagnostyczna na system Android, umożliwiająca monitorow
 
 ## 📱 Prezentacja Aplikacji
 
-
-![Główne](Ss2.jpg)
-
+<p align="center">
+  <img src="Ss2.jpg" alt="Główne" width="300">
+</p>
 
 | Główne Odczyty |       Strumień Danych       |       Wykaz Sprzętu       |
 |:---:|:---------------------------:|:-------------------------:|
-| ![Główne Odczyty](Ss1.jpg) | ![Strumień Danych](Ss3.jpg) | ![Wykaz Sprzętu](Ss4.jpg) |
+| <img src="Ss1.jpg" width="200"> | <img src="Ss3.jpg" width="200"> | <img src="Ss4.jpg" width="200"> |
 
 ## ✨ Kluczowe Funkcje
 
