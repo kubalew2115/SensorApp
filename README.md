@@ -6,9 +6,7 @@ Kompleksowa aplikacja diagnostyczna na system Android, umożliwiająca monitorow
 
 | Główne Odczyty | Strumień Danych (Raw) | Wykaz Sprzętu |
 |:---:|:---:|:---:|
-| ![Main Screen Placeholder](https://via.placeholder.com/200x400?text=Główne+Wskaźniki) | ![Raw Data Placeholder](https://via.placeholder.com/200x400?text=Strumień+Danych) | ![Hardware List Placeholder](https://via.placeholder.com/200x400?text=Lista+Sprzętu) |
-
-*(Wskazówka: Zastąp powyższe placeholder-y własnymi zrzutami ekranu z aplikacji!)*
+| ![Główne Odczyty](Ss1.jpg) | ![Strumień Danych](Ss2.jpg) | ![Wykaz Sprzętu](Ss3.jpg) |
 
 ## ✨ Kluczowe Funkcje
 
@@ -51,7 +49,7 @@ Każdy czujnik posiada wbudowaną w aplikację instrukcję testu:
 1. Sklonuj repozytorium.
 2. Otwórz w Android Studio.
 3. Po uruchomieniu na telefonie zaakceptuj uprawnienia do **Aktywności Fizycznej** (wymagane dla krokomierza).
-4. Aby filtrować logi, wpisz `mysensors` w wyszukiwarce LogCat.
+4. Aby filtrować logi, wpisz `mysensors` w wyszukiwarkę LogCat.
 
 ---
 *Projekt stworzony w ramach ćwiczeń z programowania sensorów w systemie Android.*
