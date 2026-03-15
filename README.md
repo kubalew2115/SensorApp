@@ -8,9 +8,9 @@ Kompleksowa aplikacja diagnostyczna na system Android, umożliwiająca monitorow
   <img src="Ss2.jpg" alt="Główne" width="300">
 </p>
 
-| Główne Odczyty |       Strumień Danych       |       Wykaz Sprzętu       |
-|:---:|:---------------------------:|:-------------------------:|
-| <img src="Ss1.jpg" width="200"> | <img src="Ss3.jpg" width="200"> | <img src="Ss4.jpg" width="200"> |
+|         Główne Odczyty          |         Strumień Danych         |          Wykaz Sprzętu          |
+|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| <img src="Ss1.jpg" width="350"> | <img src="Ss3.jpg" width="350"> | <img src="Ss4.jpg" width="350"> |
 
 ## ✨ Kluczowe Funkcje
 
