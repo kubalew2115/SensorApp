@@ -4,9 +4,13 @@ Kompleksowa aplikacja diagnostyczna na system Android, umożliwiająca monitorow
 
 ## 📱 Prezentacja Aplikacji
 
-| Główne Odczyty |      Strumień Danych        | Wykaz Sprzętu |
-|:---:|:---------------------------:|:---:|
-| ![Główne Odczyty](Ss1.jpg) | ![Strumień Danych](Ss2.jpg) | ![Wykaz Sprzętu](Ss3.jpg) |
+
+![Główne](Ss2.jpg)
+
+
+| Główne Odczyty |       Strumień Danych       |       Wykaz Sprzętu       |
+|:---:|:---------------------------:|:-------------------------:|
+| ![Główne Odczyty](Ss1.jpg) | ![Strumień Danych](Ss3.jpg) | ![Wykaz Sprzętu](Ss4.jpg) |
 
 ## ✨ Kluczowe Funkcje
 
